@@ -30,3 +30,12 @@ h2 {
   color:rgb(152,173,166);
   font-size:2em;
 }
+
+.small {
+  font-size:0.8em;
+}
+
+p {
+  color:#555;
+  margin:0px 0px 20px 0px
+}
