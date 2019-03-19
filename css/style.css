@@ -26,3 +26,7 @@ a {
   background:transparent;
 }
 /* Write all remaining styles here */
+h2 {
+  color:rgb(152,173,166);
+  font-size:2em;
+}
